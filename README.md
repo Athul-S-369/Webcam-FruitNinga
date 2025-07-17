@@ -29,23 +29,6 @@ Webcam Fruit Ninja is an interactive game that uses your webcam and AI-powered h
 
 ---
 
-## 🛠️ Setup Instructions
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Webcam-FruitNinja.git
-   cd Webcam-FruitNinja
-   ```
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the game:**
-   ```bash
-   python main.py
-   ```
-
----
 
 ## 🎮 How to Play
 
@@ -80,16 +63,12 @@ All dependencies are listed in `requirements.txt`.
 
 ## 👨‍💻 Credits
 
-- **Project Author:** [Your Name Here]
+- **Project Author:** Athul S
 - Inspired by the classic Fruit Ninja game.
 
 ---
 
-## 🌌 Screenshots
 
-> _Add your gameplay screenshots here!_
-
----
 
 ## ⭐️ Star this repo if you like it!
 
@@ -97,4 +76,4 @@ All dependencies are listed in `requirements.txt`.
 
 ## 📫 Contact
 
-For questions or feedback, open an issue or reach out at [your-email@example.com]. 
+For questions or feedback, open an issue or reach out at imathul270@gmail.com 
